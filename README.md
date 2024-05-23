@@ -8,7 +8,12 @@ This project was for educational purposes and aims to develop and create a neura
 The starter files consist of the following files: 
 - `attrition.ipynb`
 
-## Technologies Used 
+## Installing
+The repo is public and can be cloned at:
+
+https://github.com/col-mustang/neural-network-challenge-2
+
+## Technologies Used
 - Python
 - Pandas
 - scikit-learn
